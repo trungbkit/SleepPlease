@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sleep, Please!</string>
+
+    <!--Used by Preferences-->
+
+    <string name="pref_alarm_status_key" translatable="false">alarm_status</string>
+    <string name="pref_alarm_status_label">Turn alarm on</string>
+    <string name="pref_alarm_status_on">On</string>
+    <string name="pref_alarm_status_off">Off</string>
+
+    <string name="pref_ringtone_file_label">Ringtone</string>
+    <string name="pref_ringtone_file_key">ringtone_file_key</string>
+    <string name="pref_ringtone_file_name_key">ringtone_file_name_key</string>
+
+    <string name="pref_time_label">Time</string>
+    <string name="pref_time_key">time</string>
+
+    <string name="pref_repeat_label">Repeat</string>
+    <string name="pref_repeat_key">repeat</string>
+
+    <string name="pref_vibrate_label">Vibrate</string>
+    <string name="pref_vibrate_key">vibrate</string>
+
+    <string name="pref_label_label">Label</string>
+    <string name="pref_label_key">label</string>
+
+    <string name="title_activity_alert">AlertActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="pref_record_label">Record</string>
+    <string name="pref_record_key">record</string>
+
+</resources>
